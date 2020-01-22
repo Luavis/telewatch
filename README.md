@@ -1,8 +1,8 @@
 # telewatch
 
-Watch with telegram
+Watch with telegram 🔭
 
-### Install
+## Install
 
 ```sh
 $ git clone https://github.com/luavis/telewatch
@@ -24,7 +24,7 @@ Chat id: xxxxxx
 Chat id is successfully saved
 ```
 
-### Examples
+## Examples
 
 - send message when changed
     ```
